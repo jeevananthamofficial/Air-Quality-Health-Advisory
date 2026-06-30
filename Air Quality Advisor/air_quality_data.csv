@@ -1,0 +1,11 @@
+City,Date,AQI,PM2.5,PM10,NO2,SO2,CO,O3,Temperature,Humidity,Health_Advice
+Chennai,2026-06-01,42,12,28,18,5,0.5,32,34,62,Air quality is good. Enjoy outdoor activities.
+Delhi,2026-06-01,185,92,180,45,12,1.2,48,39,44,Sensitive groups should limit outdoor activity.
+Mumbai,2026-06-01,88,30,60,20,6,0.7,35,31,70,Moderate air quality. Reduce prolonged outdoor exertion.
+Bengaluru,2026-06-01,58,18,35,15,4,0.4,30,28,65,Air quality is acceptable for most people.
+Hyderabad,2026-06-01,132,55,105,35,10,0.9,40,36,55,People with respiratory issues should wear masks.
+Kolkata,2026-06-01,210,115,220,55,15,1.5,52,35,68,Avoid outdoor exercise. Stay indoors if possible.
+Pune,2026-06-01,72,25,48,18,5,0.5,34,30,60,Moderate air quality. Stay hydrated outdoors.
+Ahmedabad,2026-06-01,160,70,140,40,11,1.1,45,41,38,"Limit outdoor activities, especially children."
+Jaipur,2026-06-01,260,135,260,60,18,1.8,60,42,30,Very unhealthy. Wear N95 masks and avoid outdoor exposure.
+Lucknow,2026-06-01,310,165,320,72,20,2.1,65,40,35,Hazardous air quality. Stay indoors and use air purifiers.
