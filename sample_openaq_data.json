@@ -1,7 +1,0 @@
-[
-  {"city": "Tokyo", "pm25": 11.5},
-  {"city": "Paris", "pm25": 22.4},
-  {"city": "Mumbai", "pm25": 95.3},
-  {"city": "Beijing", "pm25": 145.2},
-  {"city": "Reykjavik", "pm25": 2.1}
-]
